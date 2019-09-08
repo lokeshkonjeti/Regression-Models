@@ -7,5 +7,5 @@ Polynomial Regression
 Decision Tree Regression
 Random Forest Regression
 
-These Regression are applied on the given Datasets.
+These Regression Models are applied on the given Datasets.
 
