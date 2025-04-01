@@ -1,5 +1,5 @@
 # Regression-Models
-Case Studies of Regression Models
+Simple of Regression Models built to learn ML basics
 
 Simple Linear Regression
 Multiple Linear Regression
